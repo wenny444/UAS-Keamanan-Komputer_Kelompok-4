@@ -72,6 +72,9 @@ menggunakan tool pengujian jaringan yang mampu mensimulasikan beban lalu lintas 
 #### 6. Hasil pengujian menunjukkan bahwa serangan SYN flood dapat menyebabkan perangkat mengalami overload.
 sehingga respons menjadi sangat lambat atau server berhenti merespons. Kondisi ini dapat diibaratkan seperti perangkat yang “menyala tetapi tidak dapat berpikir”, karena sumber dayanya habis untuk memproses permintaan palsu.
 
+|![WhatsApp Image 2025-12-10 at 03 24 31_77209cdb](https://github.com/user-attachments/assets/0e643fe4-4556-46d9-b8d3-4066b0d3adad)
+|
+
 ----
 
 ## Kesimpulan
