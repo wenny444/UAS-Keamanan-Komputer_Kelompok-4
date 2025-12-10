@@ -39,7 +39,6 @@ Web Service ini dirancang sebagai pusat monitoring (*dashboard*) yang menampilka
 | :---: |
 |![WhatsApp Image 2025-12-10 at 03 54 11_b7f49240](https://github.com/user-attachments/assets/86e58261-a92f-4549-944d-241bad80b6c2)|
 
-## Skenario Serangan 1: Brute Force Attack
 
 ### Apa itu DoS SYN flood?
 DoS SYN Flood adalah salah satu bentuk serangan Denial of Service (DoS) yang menargetkan kelemahan dalam proses TCP three-way handshake pada komunikasi jaringan.
